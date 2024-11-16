@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.head {
+  color: black;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.para {
+  color: grey;
+  font-weight: 300;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  list-style-type: none;
+  border-bottom: 1px solid darkgray;
+}
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+}
